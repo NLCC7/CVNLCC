@@ -1,0 +1,25 @@
+body{ margin-top: 30px; 
+    margin-right: 60px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    border: 6px solid magenta; 
+    padding: 2px;
+    color: black;
+    font-weight: inherit;
+    background-color:antiquewhite;
+    text-align: justify;
+}
+header{ margin-top: 20px; 
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 6px solid lightcoral; 
+    padding: 2px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}{ 
+    color: lightgray
+}
+/** comentarios
+*/ 
